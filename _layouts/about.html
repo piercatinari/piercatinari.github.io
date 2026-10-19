@@ -9,6 +9,7 @@ layout: default
 <article class="bio">
   <div class="profile">
     <div class="avatar"><img src="photo.jpg" alt="{{ site.title }}" onerror="this.remove()"></div>
+    {% if site.affiliations %}<div class="affil-logos">{% for a in site.affiliations %}<a href="{{ a.url }}" title="{{ a.name }}"><img class="logo-light" src="{{ a.logo }}" alt="{{ a.name }}">{% if a.logo_dark %}<img class="logo-dark" src="{{ a.logo_dark }}" alt="{{ a.name }}">{% endif %}</a>{% endfor %}</div>{% endif %}
     <div class="more-info">
       {% for e in site.emails %}<p><a href="mailto:{{ e }}">{{ e }}</a></p>
       {% endfor %}

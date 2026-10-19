@@ -18,6 +18,18 @@ emails:
   - "pgc45@cornell.edu"
   - "pier-giuseppe.catinari@weizmann.ac.il"
 
+# Logos shown under your photo (each links to the institution's website).
+# "logo_dark" is the version used in dark mode. Remove a block to remove a logo.
+affiliations:
+  - name: "Cornell University"
+    url: "https://www.cornell.edu/"
+    logo: "logo-cornell.svg"
+    logo_dark: "logo-cornell-dark.svg"
+  - name: "Weizmann Institute of Science"
+    url: "https://www.weizmann.ac.il/"
+    logo: "logo-weizmann.png"
+    logo_dark: "logo-weizmann-dark.png"
+
 # Profile links (the icons at the bottom of the home page)
 inspire: "https://inspirehep.net/authors/2841452"
 arxiv: "https://arxiv.org/search/?searchtype=author&query=Catinari%2C+P+G"
