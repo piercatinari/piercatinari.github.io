@@ -5,6 +5,12 @@
 # "links" is optional: add slides, video or the event page as in the examples,
 # or delete the "links:" lines if there are none.
 
+- date: "Oct 2026"
+  title: "Topological gauge dynamics of Standard Model θ vacua"
+  where: "Theory seminar, Johns Hopkins University"
+  links:
+    - name: "Event"
+      url: "https://physics-astronomy.jhu.edu/event/particle-theory-cosmology-seminar-piergiuseppe-catinari-cornell/"
 
 - date: "Oct 2026"
   title: "Topological gauge dynamics of Standard Model θ vacua"
@@ -21,6 +27,12 @@
     - name: "Event"
       url: "https://indico.ifae.es/event/2558/"
 
+- date: "Mar 2026"
+  title: "Theory Seminar"
+  where: "SISSA, Trieste, Italy"
+  links: 
+    - name: "Event"
+      url: "https://agenda.unige.ch/events/view/43005"
 - date: "Oct 2025"
   title: "Hunting axion dark matter with antiferromagnets"
   where: "LawPhysics online seminar series (host: Walter Tangarife, Loyola University Chicago)"
@@ -64,7 +76,7 @@
   where: "Sofia University, Bulgaria"
 
 - date: "Sep 2024"
-  title: "Theory seminar"
+  title: "Informal Journal Club Talk"
   where: "Johns Hopkins University, Baltimore, USA"
 
 - date: "Apr 2024"
